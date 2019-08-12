@@ -2,7 +2,7 @@
 <body>
     <!-- Navigation Panel -->
     <div class="home">
-        <nav class="navbar navbar-expand-md navbar-dark bg-dark">
+        <nav class="navbar navbar-expand-md navbar-dark bg-dark fixed-top">
             <a href="/hms" class="navbar-brand">
                 <i class="fa fa-plus-square"></i>
             </a>

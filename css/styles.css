@@ -1,6 +1,10 @@
+@import url(https://fonts.googleapis.com/css?family=B612&display=swap);
+
 body {
+    padding-top: 70px;
     overflow: hidden;
-    font-family: Operator Mono Light;
+    font-family: B612;
+    overflow-y: scroll;
 }
 
 .navbar {
@@ -8,7 +12,7 @@ body {
     font-weight: 700;
     font-size: .9rem;
     letter-spacing: .1rem;
-    background: rgba(255, 0, 0, 0.5)!important;
+    background-color: rgba(250,192,194)!important;
 }
 
 .navbar-nav li {
@@ -19,4 +23,9 @@ body {
 .navbar-dark .navbar-nav .nav-link {
     color: #fff;
     padding-top: .8rem;
+}
+
+
+.padding-rows {
+  padding: 20px;
 }

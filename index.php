@@ -20,6 +20,10 @@
         <h1>Home</h1>
         <h3>Hospital Management System</h3>
     </div>
+    <div style="height:500px";>
+
+    </div>
+    <?php include "includes/footer.php"; ?>
 </body>
 
 </html>

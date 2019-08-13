@@ -1,1 +1,1 @@
-**Hospital Management System - Final Year Project**
+## Hospital Management System - Final Year Project
